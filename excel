@@ -1,0 +1,6 @@
+calculate the difference between two dates and time on excel
+=TEXT(C373-C372,"[h]:mm:ss")
+
+
+add 7 minute interval from cell
+=K129+TIME(0,7,0)
